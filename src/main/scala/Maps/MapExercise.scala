@@ -18,5 +18,9 @@ object MapExercise extends App{
     if((value%2)==0) Some(true)
     else None
   }
+  def pairNumbers2(value:Int):Option[Int]= {
+    if((value%2)==0) Some(value)
+    else None
+  }
 
 }

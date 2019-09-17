@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df0cf33d-e29c-4e46-923f-18299348b7e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Maps/ListBuffer.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Maps/MapExercise.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Maps/MapsExercises.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Maps/Person.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Maps/FlatMapExercises.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Maps/MapExercise.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Maps/MapExercise.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Maps/MapExercise$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Maps/MapExercise$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Maps/MapExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Maps/MapExercise.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,13 +62,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapExercise">
-    <configuration name="JoiningFutures" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.JoiningFutures" />
+  <component name="RunManager" selected="Application.FlatMap">
+    <configuration name="FlatMap" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Maps.FlatMapExercises" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.*" />
+          <option name="PATTERN" value="Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlatMap" />
         <item itemvalue="Application.MapExercise" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.ListBuffer" />
         <item itemvalue="Application.MapsExercises" />
-        <item itemvalue="Application.JoiningFutures" />
       </list>
     </recent_temporary>
   </component>
