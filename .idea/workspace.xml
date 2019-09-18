@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df0cf33d-e29c-4e46-923f-18299348b7e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Maps/FlatMapExercises.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/monoids/EitherExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/monoids/EitherExercise2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/monoids/MonadExercise.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/monoids/Monoid.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Maps/MapExercise.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Maps/MapExercise.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Maps/MapExercise$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Maps/MapExercise$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Maps/MapExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Maps/MapExercise.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,13 +62,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FlatMap">
-    <configuration name="FlatMap" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Maps.FlatMapExercises" />
+  <component name="RunManager" selected="Application.EitherExercise2">
+    <configuration name="EitherExercise" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="monoids.EitherExercise" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Maps.*" />
+          <option name="PATTERN" value="monoids.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,8 +76,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListBuffer" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Maps.ListBuffer" />
+    <configuration name="EitherExercise2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="monoids.EitherExercise2" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="monoids.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlatMap" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Maps.FlatMapExercises" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -102,25 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapsExercises" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Maps.MapsExercises" />
+    <configuration name="MonadExercise" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="monoids.MonadExercise" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Maps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Maps.Person" />
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Maps.*" />
+          <option name="PATTERN" value="monoids.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EitherExercise2" />
+        <item itemvalue="Application.EitherExercise" />
+        <item itemvalue="Application.MonadExercise" />
         <item itemvalue="Application.FlatMap" />
         <item itemvalue="Application.MapExercise" />
-        <item itemvalue="Application.Person" />
-        <item itemvalue="Application.ListBuffer" />
-        <item itemvalue="Application.MapsExercises" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +196,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
