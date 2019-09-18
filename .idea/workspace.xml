@@ -6,6 +6,16 @@
       <change afterPath="$PROJECT_DIR$/src/main/scala/monoids/EitherExercise2.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/scala/monoids/MonadExercise.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/scala/monoids/Monoid.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monoids/EitherExercise$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monoids/EitherExercise$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monoids/EitherExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monoids/EitherExercise2$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monoids/EitherExercise2$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monoids/EitherExercise2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monoids/MonadExercise$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monoids/MonadExercise$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monoids/MonadExercise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monoids/Monoid.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
