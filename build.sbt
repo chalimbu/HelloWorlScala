@@ -19,3 +19,7 @@ libraryDependencies ++= Seq(
   "io.circe" %% "circe-generic",
   "io.circe" %% "circe-parser"
 ).map(_ % circeVersion)
+
+//mongo db library
+libraryDependencies += "org.mongodb.scala" %% "mongo-scala-driver" % "2.6.0"
+
