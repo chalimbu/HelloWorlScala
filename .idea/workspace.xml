@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df0cf33d-e29c-4e46-923f-18299348b7e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/monix/task/TaskExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/functionalPrograming/chapter1/Cafe.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/HelloWorld.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/monix/MonixExercise.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/cats/introduction/EitherStr$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/cats/introduction/EitherStr$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/monix/MonixExercise$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/monix/MonixExercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -167,7 +166,6 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3137731021871" />
         <entry key="$PROJECT_DIR$/build.sbt" value="2303478044" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1156910148" />
       </map>
