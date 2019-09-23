@@ -2,18 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df0cf33d-e29c-4e46-923f-18299348b7e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/reactivemongo/VariablesEntorno.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_core_2_12_1_5_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_kernel_2_12_1_5_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_macros_2_12_1_5_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_machinist_2_12_0_6_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/reactivemongoM/Connection.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/reactivemongoM/GetStarted.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_monix_implicitbox_2_12_0_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_monix_monix_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_monix_monix_catnap_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_monix_monix_eval_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_monix_monix_execution_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_monix_monix_java_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_monix_monix_reactive_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_monix_monix_tail_2_12_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_jctools_jctools_core_2_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_mongodb_bson_3_10_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_mongodb_mongodb_driver_async_3_10_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_mongodb_mongodb_driver_core_3_10_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_mongodb_scala_mongo_scala_bson_2_12_2_6_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_mongodb_scala_mongo_scala_driver_2_12_2_6_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_reactivestreams_reactive_streams_1_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_core_2_12_2_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_effect_2_12_2_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_kernel_2_12_2_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_macros_2_12_2_0_0_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/HelloWorld.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/monix/task/TaskExample$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monix/task/TaskExample$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/monix/task/TaskExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/monix/task/TaskExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0482084b774640eaab60$.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$0482084b774640eaab60$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1ced3819c5c08388bdb3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1ced3819c5c08388bdb3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1ced3819c5c08388bdb3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2d236f525b583126e857$.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$2d236f525b583126e857$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5bad63a68aa5c355f8a8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5bad63a68aa5c355f8a8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5bad63a68aa5c355f8a8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$750d6ae5fdba871f8337$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$750d6ae5fdba871f8337.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$750d6ae5fdba871f8337.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$afd90e7a707cb9ac217d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$afd90e7a707cb9ac217d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$afd90e7a707cb9ac217d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/reactivemongo/VariablesEntorno.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/reactivemongoM/VariablesEntorno.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/reactivemongo/VariablesEntorno$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/reactivemongo/VariablesEntorno$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
@@ -42,7 +82,17 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HelloWorld" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HelloWorld" type="f1a62948:ProjectNode" />
+                <item name="HelloWorld" type="2d1252cf:ModuleNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -63,7 +113,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4765625" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -77,13 +127,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VariablesEntorno">
-    <configuration name="DatabaseApp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="cats.introduction.DatabaseApp" />
+  <component name="RunManager" selected="Application.Connection">
+    <configuration name="Connection" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="reactivemongoM.Connection" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cats.introduction.*" />
+          <option name="PATTERN" value="reactivemongoM.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +168,11 @@
       </method>
     </configuration>
     <configuration name="VariablesEntorno" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="reactivemongo.VariablesEntorno" />
+      <option name="MAIN_CLASS_NAME" value="reactivemongoM.VariablesEntorno" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reactivemongo.*" />
+          <option name="PATTERN" value="reactivemongoM.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Connection" />
         <item itemvalue="Application.VariablesEntorno" />
         <item itemvalue="Application.TaskExample" />
         <item itemvalue="Application.SequentialMonadic" />
         <item itemvalue="Application.sequential" />
-        <item itemvalue="Application.DatabaseApp" />
       </list>
     </recent_temporary>
   </component>
@@ -180,8 +230,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3138500859451" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="1517241002" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2153350299" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1156910148" />
       </map>
     </option>
