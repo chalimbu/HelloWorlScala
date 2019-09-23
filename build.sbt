@@ -12,7 +12,8 @@ val circeVersion = "0.11.1"
 libraryDependencies ++= Seq(
   "com.typesafe.akka" %% "akka-actor" % akkaVersion,
   "com.typesafe.akka" %% "akka-testkit" % akkaVersion % Test,
-  "org.scalatest" %% "scalatest" % "3.0.5" % Test
+  "org.scalatest" %% "scalatest" % "3.0.5" % Test,
+  "org.reactivemongo" %% "reactivemongo" % "0.18.6"
 )
 libraryDependencies ++= Seq(
   "io.circe" %% "circe-core",
