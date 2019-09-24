@@ -1,3 +1,4 @@
+
 [error] sbt.librarymanagement.ResolveException: Error downloading org.mongodb.scala:mongo-scala-driver_2.12:1.2.0-beta1
 [error]   Not found
 [error]   Not found
@@ -33,8 +34,4 @@
 [error] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
 [error] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 [error] 	at java.lang.Thread.run(Thread.java:748)
-[error] (ssExtractDependencies) sbt.librarymanagement.ResolveException: Error downloading org.mongodb.scala:mongo-scala-driver_2.12:1.2.0-beta1
-[error]   Not found
-[error]   Not found
-[error]   not found: /home/sebastian/.ivy2/local/org.mongodb.scala/mongo-scala-driver_2.12/1.2.0-beta1/ivys/ivy.xml
-[error]   not found: https://repo1.maven.org/maven2/org/mongodb/scala/mongo-scala-driver_2.12/1.2.0-beta1/mongo-scala-driver_2.12-1.2.0-beta1.pom
+
