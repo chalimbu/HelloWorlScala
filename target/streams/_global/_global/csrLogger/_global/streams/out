@@ -36,3 +36,13 @@
 [debug] downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.12.1/log4j-api-2.12.1-javadoc.jar
 [debug] downloaded https://repo1.maven.org/maven2/dnsjava/dnsjava/2.1.9/dnsjava-2.1.9-javadoc.jar
 [debug] downloaded https://repo1.maven.org/maven2/org/reactivemongo/reactivemongo_2.12/0.18.6/reactivemongo_2.12-0.18.6-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.10/slf4j-parent-1.7.10.pom
+[debug] downloaded https://repo1.maven.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10.jar
+[debug] downloaded https://repo1.maven.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.jar
+[debug] downloaded https://repo1.maven.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17-javadoc.jar
+
