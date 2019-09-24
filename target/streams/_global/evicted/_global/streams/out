@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0m"not up to date. inChanged = true, force = true[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating [0m
+[0m[[0m[33mwarn[0m] [0m[0mFound version conflict(s) in library dependencies; some are suspected to be binary incompatible:[0m
+[0m[[0m[33mwarn[0m] [0m[0m	* org.typelevel:cats-core_2.12:2.0.0 is selected over 1.5.0[0m
+[0m[[0m[33mwarn[0m] [0m[0m	    +- org.typelevel:cats-effect_2.12:2.0.0               (depends on 2.0.0)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	    +- io.circe:circe-core_2.12:0.11.1                    (depends on 1.5.0)[0m
